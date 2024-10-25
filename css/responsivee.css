@@ -1,0 +1,1147 @@
+/* @media only screen and  (max-width: 1200px) {  } */
+@media only screen and (max-width:1440px)   { 
+  .exceptional:before {
+    left: 130px;
+}
+.exceptional:after {
+  right: 174px;
+}
+.exceptional-bottom:after {
+  right: 150px;
+  top: -10px;
+}
+.exceptional-bottom:before {
+  left: 184px;
+  top: 5px;
+}
+.red-cta {
+  background-position: 100%;
+}
+.blue-cta {
+  background-position: left;
+}
+.portfolio:before {
+  right: 174px;
+}
+ }
+
+@media only screen and (max-width:1160px)   { 
+  .container {
+    max-width: 1125px;
+}
+.menu ul li a {
+  font-size: 14px;
+}
+.navigation-btns ul li a {padding: 8px 25px;}
+.traverse-text h2 {
+  font-size: 17px;
+  width: 380px;
+}
+.traverse-text h1 {
+  font-size: 40px;
+}
+.traverse-text p {
+  font-size: 12px;
+}
+.traverse {
+  
+  background-position: 37% 100%;
+}
+.exceptional:before {
+  left: 60px;
+}
+.exceptional:after {
+  right: 104px;
+}
+.custom-header h3 {
+  font-size: 33px;
+}
+.custom-header p {
+  font-size: 13px;
+  width: 47%;
+}
+.endorse:before {
+  right: 74px;
+  top: -60px;
+}
+.endorse-text h3 {
+  font-size: 18px;
+}
+.endorse-text h4 {
+  font-size: 30px;
+}
+.endorse-text p {
+  font-size: 13px;
+}
+.endorse:after {
+  left: 80px;
+}
+.cta-text h2 {
+  font-size: 33px;
+}
+.cta-text p {
+  font-size: 19px;
+}
+.portfolio:before {
+  right: 84px;
+}
+.portfoliotab {
+  font-size: 14px;
+}
+.why-choose-box p {
+  font-size: 14px;
+}
+.why-choose-bottom h4 {
+  font-size: 32px;
+}
+.counter-box h3 {
+  font-size: 36px;
+}
+.counter-box h4 {
+  font-size: 15px;
+}
+.client-box p {
+  font-size: 14px;
+}
+.footer-services h3 {
+  font-size: 21px;
+}
+.footer-services ul li a {
+  font-size: 14px;
+}
+.footer-payment h3 {
+  font-size: 21px;
+}
+.adress-bar a p {
+  font-size: 14px;
+}
+.package-boxes-slder .owl-nav {
+  justify-content: center;
+  bottom: 0px !important;
+  margin: 0;
+}
+.package-boxes-slder .owl-nav button {
+  margin: 0 10px;
+}
+.iner-banner-text h2 {
+  font-size: 17px;
+  width: 380px;
+}
+.iner-banner-text h1 {
+  font-size: 37px;
+}
+.inner-banner {
+  height: 500px;
+}
+.award-text h3 {
+  font-size: 16px;
+}
+.award-text h2 {
+  font-size: 32px;
+  line-height: 44px;
+}
+.award-text p {
+  font-size: 14px;
+}
+.inner-portfilio .custom-header h3 {
+  font-size: 33px;
+  width: 60%;
+}
+ }
+ @media only screen and (max-width:1024px){
+  .navigation-btns ul li a {padding: 8px 20px;}
+.iner-banner-text h2 {
+  width: 320px;
+}
+.badges{
+    display:none;
+}
+.two-floating-btn {
+    width: 177px;
+}
+.iner-banner-text h1 {
+  font-size: 35px;
+}
+.award-text h3 {
+  font-size: 14px;
+}
+.award-text h2 {
+  font-size: 29px;
+  line-height: 41px;
+}
+.traverse-text h2 {
+  font-size: 15px;
+  width: 350px;
+}
+.traverse-text h1 {
+  font-size: 38px;
+  line-height: 45px;
+}
+.menu {
+  margin-left: 40px;
+}
+.traverse-bark {
+  top: 70px;
+}
+
+.traverse {
+  height: 650px;
+}
+.custom-header h3 {
+  font-size: 31px;
+  width: 70%;
+
+}
+.custom-header p {
+  width: 52%;
+}
+.exceptional:before {
+  left: 30px;
+}
+.exceptional:after {
+  right: 55px;
+}
+.cta-text h2 {
+  font-size: 27px;
+}
+.two-floating-btn a {
+  padding: 15px 10px;
+}
+.two-floating-line {
+  width: 30px;
+}
+.two-floating-btn a h3 {
+  font-size: 12px;
+
+}
+.packagestabs ul {
+  width: 95%;
+}
+.custom-header h2 {
+  font-size: 16px;
+}
+.pkg-box-header h3 {
+  font-size: 21px;
+}
+.pkg-pricing h5 {
+  font-size: 23px;
+}
+.share-idea h4 {
+  font-size: 12px;
+}
+.share-idea a {
+  font-size: 12px;
+}
+.packagescontent {
+  margin-top: 30px;
+}
+.endorse-text h3 {
+  font-size: 17px;
+}
+.endorse-text h4 {
+  font-size: 28px;
+}
+.portfoliotab {
+  font-size: 13px;
+}
+.why-choose-bottom h4 {
+  font-size: 32px;
+  width: 70%;
+}
+.client-box {
+  box-shadow: 0px 6px 11px #0000000f;
+  margin: 9px;
+}
+.footer-services h3 {
+  font-size: 19px;
+}
+.footer-payment h3 {
+  font-size: 19px;
+}
+.exceptional-tab-body h3 {
+  font-size: 22px;
+}
+ }
+@media only screen and (max-width:991px){
+  /*RESPONSIVE NAVIGATION*/
+  .mobile-menu{
+    display: block;
+  }
+  .floating-btn a {
+    padding: 12px 8px;
+}
+.floating-btn a h3 {
+  font-size: 12px;
+}
+  .endorse-text h4 {
+    font-size: 31px;
+}
+.video-testimonial video {
+  height: 410px;
+}
+  .traverse {
+    height: 530px;
+}
+.traverse-bark {
+  top: 30px;
+}
+  .contact-form p {
+    font-size: 11px;
+    width: 100%;
+}
+.contact-form {
+  padding: 30px 30px;
+}
+.let-us-heading p {
+  font-size: 14px;
+  width: 87%;
+}
+  .navigation{
+    display: none;
+  }
+  .about-text h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+.about-text p {
+  font-size: 12px;
+}
+.about-us h3 {
+  font-size: 20px !important;
+}
+  .inner-banner {
+    background-position: 25% 100%;
+}
+.traverse-text h2 {
+  font-size: 13px;
+  width: 251px;
+}
+.traverse-text h1 {
+  font-size: 29px;
+  line-height: 38px;
+}
+.exceptional:before{
+  display:none;
+}
+.exceptional:after{
+  display:none;
+}
+.exceptional {
+  padding: 70px 0 60px;
+  position: relative;
+}
+.custom-header h3 {
+  font-size: 29px;
+  width: 80%;
+}
+.custom-header p {
+  width: 82%;
+}
+.exceptional-bottom{
+  display: none;
+}
+.exceptional-img img {
+  display: block;
+  margin: 0 auto;
+  width: 60%;
+  margin-top: 17px;
+}
+.two-floating-btns ul {
+  width: 100%;
+  display: block;
+}
+.cta-text h2 {
+  font-size: 25px;
+  width: 70%;
+  margin-bottom: 0;
+}
+.cta-text p {
+  font-size: 16px;
+}
+.cta-text p a {
+  font-size: 18px;
+}
+.two-floating-btn {
+  margin-top: 10px;
+}
+.red-cta {
+  background: #11376d;
+  height: 165px;
+  display: flex;
+  border-radius: 0px 80px 80px 0px;
+  margin-bottom: 10px;
+}
+.packagestabs ul {
+  width: 100%;
+}
+.packagestabs ul li button {
+  font-size: 11px !important;
+  padding: 10px 12px !important;
+}
+.endorse:before{
+  display: none;
+}
+.endorse-text {
+  margin-top: 10px;
+}
+.endorse:after{
+  display: none;
+}
+.blue-cta {
+  background: #11376d;
+  height: 185px;
+  border-radius: 80px 0px 0px 80px;
+  padding-left: 30px;
+
+}
+.endorse {
+  padding: 0px 0 20px;
+}
+.portfolio:before{
+  display:none;
+}
+.portfolio {
+  padding: 10px 0;
+}
+.portfoliotab {
+  font-size: 10px;
+}
+.portfoliocontent {
+  margin-top: 45px;
+}
+.portfolio-inner-box {
+  margin: 0px 0px 50px 0px;
+}
+.why-choose-head h2 {
+  font-size: 32px;
+}
+.why-choose-head p {
+  font-size: 13px;
+}
+.why-choose-box h3 {
+  font-size: 20px;
+}
+.why-choose-box p {
+  font-size: 13px;
+}
+.why-choose-bottom h4 {
+  font-size: 27px;
+  width: 90%;
+}
+.counter-box h3 {
+  font-size: 33px;
+}
+.counter-box h4 {
+  font-size: 13px;
+}
+.client-feedback {
+  padding: 40px 0;
+}
+.custom-header h2 {
+  font-size: 15px;
+}
+.custom-header h3 {
+  font-size: 28px;
+  width: 80%;
+}
+.footer-services h3 {
+  font-size: 16px;
+}
+.footer-services ul li a {
+  font-size: 12px;
+}
+.footer-payment h3 {
+  font-size: 16px;
+}
+.adress-bar a p {
+  font-size: 11px;
+}
+.adress-bar p {
+  font-size: 12px;
+}
+.adress-bar i {
+  margin-right: 10px;
+  font-size: 17px;
+}
+.pop-mob-image img {
+  position: absolute;
+  top: auto;
+  bottom: 0;
+  left: 0;
+  width: 50%;
+}
+.tab-none{
+  display:none;
+}
+.popup-modal-body {
+  padding-right: 0;
+}
+.popup-text h3 {
+  font-size: 23px;
+  width: 80%;
+}
+.iner-banner-text h2 {
+  font-size: 14px;
+  width: 270px;
+}
+.iner-banner-text h1 {
+  font-size: 26px;
+  line-height: 36px;
+  margin-bottom: 10px;
+}
+.iner-banner-text p {
+  font-size: 12px;
+}
+.inner-banner {
+  height: 430px;
+}
+.award-winning {
+  padding: 60px 0;
+}
+.award-text h3 {
+  font-size: 13px;
+}
+.award-text h2 {
+  font-size: 23px;
+  line-height: 35px;
+}
+.floating-black-btns ul {
+  display: block;
+}
+.floating-black-btns ul li {
+  margin-bottom: 10px;
+}
+.inner-portfilio {
+  padding: 40px 0 0px;
+}
+.tab-flip{
+  flex-direction: column-reverse;
+}
+.blue-cta h2 {
+  font-size: 23px;
+  width: 91%;
+}
+.blue-cta p {
+  font-size: 15px;
+}
+.get-started-modal h3 {
+  font-size: 24px;
+}
+.why-choose-box p {
+
+  padding-right: 3px;
+}
+.client-box p {
+  height: 129px;
+}
+.let-us {
+  padding: 50px 0 10px;
+}
+.portfolio h3 {
+  font-size: 20px;
+}
+.portfolio-page {
+  padding-top: 70px;
+}
+.award-win-img {
+  display: none;
+}
+.inner-portfilio .custom-header h3 {
+  font-size: 25px;
+  width: 70%;
+}
+.inner-process {
+  padding: 10px 0 !important;
+}
+.vid-testi-text h3 {
+  font-size: 25px;
+}
+  /*RESPONSIVE NAVIGATION*/
+}
+
+@media only screen and  (max-width: 768px)  {  }
+
+@media only screen and (max-width: 500px)  {
+  .detaill-box h2 {
+    width: 100%;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.inner-package-detailss h3 {
+    font-size: 25px;
+}
+
+.detaill-box {
+    padding: 40px 0;
+}
+  .traverse {
+    height: 870px;
+    background-position: 130% 100%;
+}
+.floating-btn {
+  width: 150px;
+}
+.video-testimonial video {
+  height: 290px;
+}
+.vid-testi-text {
+  margin-top: 40px;
+}
+.video-play-button span {
+  
+  border-left: 16px solid #fff;
+  border-top: 9px solid transparent;
+  border-bottom: 9px solid transparent;
+  left: -5px;
+}
+.video-play-button:after {
+  width: 20px;
+  height: 20px;
+}
+.video-play-button {
+  width: 7px;
+  height: 18px;
+  padding: 11px 15px 13px 21px;
+}
+.floating-side-icons {
+    padding-left: 10px;
+    bottom: 10px;
+    z-index: 1;
+}
+.go-top{
+    display:none;
+}
+.about-us {
+  padding: 50px 0;
+}
+.portfolio-bar {
+  box-shadow: none;
+}
+.portfolio-image-3 {
+  left: -55px;
+}
+.portfolio-image-2 {
+
+  left: -20px;
+}
+.why-choose-box p {
+  height: 74px;
+}
+.client-box p {
+  height: 109px;
+}
+.mob-flip{
+  flex-direction: column-reverse;
+}
+.floatbutton{
+  display: none;
+}
+.contact-form {
+  margin-bottom: 60px;
+}
+.let-us-heading h3 {
+  font-size: 27px;
+  width: 100%;
+}
+.let-us-heading p {
+  font-size: 12px;
+  width: 100%;
+}
+.contact-form button {
+  padding: 8px 0;
+  font-size: 15px;
+}
+.about-text h2 {
+  font-size: 26px;
+}
+.who-we .mb-5 img {
+  margin-bottom: 50px;
+}
+.award-win-img:before{
+  display: none;
+}
+.award-win-img:after{
+  display: none;
+}
+.inner-portfilio .custom-header h3 {
+  font-size: 21px;
+  width: 100%;
+}
+.floating-black-btns ul {
+  display: block;
+  text-align: center;
+}
+.inner-banner {
+  height: 700px;
+}
+.popup-text {
+  margin-top: 45px;
+}
+.popup-text img {
+  width: 50%;
+}
+.popup-text h6 {
+  margin-bottom: 11px;
+}
+.mobile-menu a img {
+  width: 80%;
+}
+.traverse-bark {
+  display: none;
+}
+.traverse-img {
+  margin-top: 40px;
+}
+.custom-header h3 {
+  font-size: 24px;
+  width: 100%;
+}
+.custom-header p {
+  width: 100%;
+  font-size: 12px;
+}
+.prodNav li {
+  text-align: center;
+}
+.exceptional-tab-body {
+  margin-top: 30px;
+}
+.red-cta {
+  height: 315px;
+  margin-bottom: 10px;
+}
+.cta-text h2 {
+  font-size: 22px;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 17px;
+}
+.cta-text p {
+  text-align: center;
+  font-size: 20px;
+}
+.cta-text p a {
+  font-size: 18px;
+  margin: 0;
+}
+.two-floating-btn {
+  display: block;
+  margin: 0 auto;
+  margin-top: 14px;
+}
+.packagestabs ul {
+  width: 100%;
+  display: block;
+}
+.packagestabs ul li button {
+  font-size: 13px !important;
+  padding: 8px 21px !important;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  border: 1px solid #878787 !important;
+  width: 210px;
+}
+.endorse-text h3 {
+  font-size: 15px;
+}
+.endorse-text h4 {
+  font-size: 24px;
+}
+.endorse-text p {
+  font-size: 12px;
+}
+.blue-cta {
+  background: #11376d;
+  height: 295px;
+  border-radius: 80px 0px 0px 80px;
+  padding-left: 10px;
+}
+.endorse-img {
+  margin-top: 30px;
+}
+.portfoliotabs {
+  display: block;
+}
+.portfoliotab {
+  font-size: 14px;
+  padding: 10px 10px;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  border: 1px solid #878787;
+  width: 260px;
+}
+.why-choose-head h2 {
+  font-size: 29px;
+}
+.why-choose-box {
+  margin-bottom: 30px;
+}
+.why-choose-bottom {
+  padding: 50px 0 10px;
+}
+.why-choose-bottom h4 {
+  font-size: 22px;
+  width: 100%;
+}
+.counter-box h3 {
+  font-size: 20px;
+}
+.counter-box h4 {
+  font-size: 9px;
+}
+.client-box p {
+  font-size: 12px;
+}
+.footer-services h3 {
+  font-size: 18px;
+}
+.footer-services ul li a {
+  font-size: 14px;
+}
+.adress-bar p {
+  font-size: 13px;
+}
+.adress-bar a p {
+  font-size: 13px;
+}
+.footer-bottm {
+  display: block;
+  text-align: center;
+}
+.footer-copyright h3 {
+  margin-bottom: 12px;
+}
+.footer-privacy ul {
+  display: inline-flex;
+}
+.mobile-menu {
+  border-bottom: 1px solid #ddd;
+}
+.get-started-modal h3 {
+  font-size: 23px;
+}
+.portfolio h3 {
+  font-size: 20px;
+}
+
+.award-box {
+    margin-bottom: 20px;
+}
+
+.digital-btn-box a.nav_num {
+    display: block;
+    width: 70%;
+    padding: 12px 10px;
+    margin: 0 auto;
+}
+
+.digital-btn-box a.blue_btn {
+    display: block;
+    margin: 50px auto;
+    margin-top: 20px;
+    padding: 12px 10px;
+    width: 70%;
+    text-align: center;
+}
+
+.digital-main-box ul li {
+    width: 100%;
+    margin: 0px 0;
+}
+
+li.digitl-li-st2 .digital-li-bx {
+    top: 0;
+}
+
+li.digitl-li-st4 .digital-li-bx {
+    top: 0;
+}
+
+.award-box:hover {
+    width: 90%;
+    margin: 10px auto 30px;
+}
+
+.counter-box ul {padding: 0;}
+
+.border-box h2 {
+    font-size: 20px;
+}
+
+.counter p {
+    font-size: 14px;
+}
+
+.border-box:after {
+    right: -8px;
+}
+
+  
+  }
+
+@media only screen and  (max-width: 375px)  {  
+  .traverse-text h1 {
+    font-size: 33px;
+}
+.video-play-button {
+  top: -50px;
+}
+.portfoliotab {
+  font-size: 13px;
+  padding: 7px 10px;
+}
+.client-box p {
+  height: 105px;
+}
+.mobile-menu .circle {
+  width: 35px;
+  height: 35px;
+  font-size: 15px;
+  right: 20px;
+  top: 18px;
+
+}
+.iner-banner-text h1 {
+  font-size: 30px;
+  line-height: 39px;
+}
+.award-text h3 {
+  font-size: 12px;
+}
+.award-text h2 {
+  font-size: 21px;
+  line-height: 30px;
+}
+.award-text h4 {
+  font-size: 12px;
+}
+.award-text p {
+  font-size: 13px;
+}
+.iner-banner-text h2 {
+  font-size: 12px;
+  width: 280px;
+}
+.get-started-modal {
+  padding: 30px 10px;
+}
+.custom-header h3 {
+  font-size: 23px;
+}
+.exceptional-tab-body h3 {
+  font-size: 21px;
+}
+.cta-text h2 {
+  font-size: 20px;
+}
+.cta-text p {
+  font-size: 17px;
+}
+.endorse-text h4 {
+  font-size: 21px;
+}
+.why-choose-head h2 {
+  font-size: 25px;
+}
+.why-choose-bottom h4 {
+  font-size: 18px;
+}
+.counter {
+  padding: 25px 0;
+}
+.privacy h1 {
+  font-size: 36px;
+}
+.privacy h2 {
+  font-size: 20px;
+}
+.privacy p {
+  font-size: 14px;
+}
+
+  .award-box {
+    margin-bottom: 20px;
+}
+
+.digital-btn-box a.nav_num {
+    display: block;
+    width: 70%;
+    padding: 12px 10px;
+    margin: 0 auto;
+}
+
+.digital-btn-box a.blue_btn {
+    display: block;
+    margin: 50px auto;
+    margin-top: 20px;
+    padding: 12px 10px;
+    width: 70%;
+    text-align: center;
+}
+
+.digital-main-box ul li {
+    width: 100%;
+    margin: 0px 0;
+}
+
+li.digitl-li-st2 .digital-li-bx {
+    top: 0;
+}
+
+li.digitl-li-st4 .digital-li-bx {
+    top: 0;
+}
+
+.award-box:hover {
+    width: 90%;
+    margin: 10px auto 30px;
+}
+
+.counter-box ul {padding: 0;}
+
+.border-box h2 {
+    font-size: 20px;
+}
+
+.counter p {
+    font-size: 14px;
+}
+
+.border-box:after {
+    right: -8px;
+}
+
+  
+}
+
+@media only screen and  (max-width: 320px)  { 
+  .traverse-text h2 {
+    font-size: 12px;
+    width: 270px;
+}
+.iner-banner-text h2 {
+  width: 240px;
+}
+.exceptional {
+  padding: 50px 0 60px;
+}
+.custom-header {
+  margin-bottom: 40px;
+}
+.iner-banner-text h1 {
+  font-size: 24px;
+  line-height: 35px;
+}
+.award-text h2 {
+  font-size: 18px;
+  line-height: 27px;
+}
+.let-us-heading h3 {
+  font-size: 23px;
+}
+.floating-black-btns ul li button {
+
+  padding: 9px 9px;
+  font-size: 12px;
+}
+.floating-black-btns ul li {
+  margin-right: 0;
+}
+.inner-portfilio .custom-header h3 {
+  font-size: 20px;
+  width: 100%;
+}
+.popup-text h3 {
+  font-size: 17px;
+  width: 80%;
+}
+.get-started-modal h3 {
+  font-size: 20px;
+}
+.traverse-text h1 {
+  font-size: 28px;
+  line-height: 33px;
+}
+.traverse {
+  height: 750px;
+  background-position: 6% 100%;
+}
+.custom-header h3 {
+  font-size: 21px;
+}
+.exceptional-tab-body h3 {
+  font-size: 20px;
+  line-height: 23px;
+}
+.exceptional-tab-body p {
+  font-size: 12px;
+}
+.exceptional-tab-body ul li {
+  margin-bottom: 11px;
+  font-size: 12px;
+}
+.cta-text h2 {
+  font-size: 20px;
+}
+.cta-text p {
+  font-size: 16px;
+}
+.endorse-text h4 {
+  font-size: 18px;
+}
+.portfolio-image-3 {
+  left: -50px;
+}
+.why-choose-head h2 {
+  font-size: 23px;
+}
+.why-choose-bottom h4 {
+  font-size: 17px;
+}
+.counter-box h3 {
+  font-size: 16px;
+}
+.client-bname h4 {
+  font-size: 16px;
+}
+.client-bname h5 {
+  font-size: 12px;
+}
+.footer-logo p {
+  font-size: 11px;
+}
+.footer-services h3 {
+  font-size: 20px;
+}
+.footer-services ul li a {
+  font-size: 13px;
+}
+
+.footer-copyright h3 {
+  font-size: 13px;
+}
+.footer-privacy ul li a {
+  font-size: 11px;
+}
+.portfolio h3 {
+  font-size: 15px;
+}
+.client-box p {
+  height: 135px;
+}
+.about-us h3 {
+  font-size: 14px !important;
+}
+.about-text h2 {
+  font-size: 20px;
+}
+.inner-banner {
+  height: 660px;
+}
+.red-cta {
+  margin-bottom: 30px;
+}
+ }
